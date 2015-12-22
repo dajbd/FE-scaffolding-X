@@ -20,6 +20,8 @@
   "homepage": "https://github.com/dajbd/FE-scaffolding-X#readme",
   "dependencies": {
     "fis": "^1.9.39",
+    "fis-parser-less-2.x": "^0.1.4",
+    "fis-postprocessor-cssprefixer": "0.0.3",
     "http-server": "^0.8.5"
   }
 }
