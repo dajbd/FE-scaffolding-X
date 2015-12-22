@@ -6,6 +6,11 @@ fis.config.merge({
         postprocessor: {
             css: ['cssprefixer']
         },
+        lint: {
+            // css lint 好像不够强劲，比如 transform 与 origin的一些问题就不提示，实际上是有兼容问题的
+            css: ['csslint'],
+            // less: ['csslint']  // 这个好像不需要
+        },
     },
     settings: {
         postprocessor: {
