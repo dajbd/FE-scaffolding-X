@@ -21,6 +21,7 @@
   "dependencies": {
     "fis": "^1.9.39",
     "fis-lint-csslint": "0.0.2",
+    "fis-lint-jshint": "0.0.10",
     "fis-parser-less-2.x": "^0.1.4",
     "fis-postprocessor-cssprefixer": "0.0.3",
     "http-server": "^0.8.5"

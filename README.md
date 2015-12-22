@@ -5,6 +5,8 @@ Scaffolding for web, Based Baidu FIS 2.
 ## Feature
 support Less CSS  
 CSS auto prefix  
+CSS lint  
+JSHint
 
 
 ## How to Use ?
